@@ -24,5 +24,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aniket026&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Aniket026&label=Profile%20Views&pretty=false" />
+</a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
