@@ -9,7 +9,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://in.linkedin.com/in/aniket-borawake-547535236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket borawake" height="30" width="40" /></a>
-<a href="https://instagram.com/mr_aniket_07.01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_aniket_07.01" height="30" width="40" /></a>
+
+  <a href="https://public.tableau.com/app/profile/aniket.borawake/vizzes" target="blank"><img align="center" src="https://www.google.com/imgres?q=tableau%20logo&imgurl=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2021%2F10%2FTableau-Emblem.png&imgrefurl=https%3A%2F%2Flogos-world.net%2Ftableau-logo%2F&docid=7f2db5iTsx1aHM&tbnid=FQx08SsEXMcXPM&vet=12ahUKEwitgYOD7diGAxXNlFYBHUrpAokQM3oECBQQAA..i&w=3840&h=2160&hcb=2&ved=2ahUKEwitgYOD7diGAxXNlFYBHUrpAokQM3oECBQQAA" alt="aniket borawake" height="30" width="40" /></a>
+  
+<a href="https://instagram.com/mr_aniket_07.01" target="blank"><img align="center" src="" alt="mr_aniket_07.01" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
