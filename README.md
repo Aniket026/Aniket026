@@ -4,10 +4,10 @@
 - 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **aniketborawake0701@gmail.com**
--    Linkedin :  **https://in.linkedin.com/in/aniket-borawake-547535236**
+
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p >
 <a href="https://in.linkedin.com/in/aniket-borawake-547535236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket borawake" height="30" width="40" /></a>
 
 
