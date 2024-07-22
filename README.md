@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm  Aniket Borawake </h1>
 <h3 align="center">Compuert Science Student</h3>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Science** 
 
 - 📫 How to reach me **aniketborawake0701@gmail.com**  
 
